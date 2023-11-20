@@ -165,7 +165,7 @@ public class Gpt extends AppCompatActivity {
         String OPENAI_URL = "https://api.openai.com/v1/engines/text-davinci-003/completions";
 
         // Placeholder for the API key.
-        String OPENAI_API_KEY = "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";
+        String OPENAI_API_KEY = "*****";
         //String data = "{\"prompt\":\"" + question + " \\\\n " + pdfText + "\",\"max_tokens\":150}";
         String data = question;// + "\n search above question in below text \n" + pdfText;
 
